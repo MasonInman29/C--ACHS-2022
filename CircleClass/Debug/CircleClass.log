@@ -1,0 +1,3 @@
+﻿  Circle.cpp
+Circle.obj : error LNK2019: unresolved external symbol "class Circle __cdecl circle1(void)" (?circle1@@YA?AVCircle@@XZ) referenced in function _main
+C:\Users\3006190\source\repos\CircleClass\Debug\CircleClass.exe : fatal error LNK1120: 1 unresolved externals

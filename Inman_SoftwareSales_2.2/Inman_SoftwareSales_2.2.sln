@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inman_SoftwareSales_2.2", "Inman_SoftwareSales_2.2.vcxproj", "{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Debug|x64.ActiveCfg = Debug|x64
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Debug|x64.Build.0 = Debug|x64
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Debug|x86.Build.0 = Debug|Win32
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Release|x64.ActiveCfg = Release|x64
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Release|x64.Build.0 = Release|x64
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Release|x86.ActiveCfg = Release|Win32
+		{CE14AA40-9A44-4F85-9F43-6A334A58B0DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C15930B-4A16-462D-8846-1388D89AC12C}
+	EndGlobalSection
+EndGlobal
